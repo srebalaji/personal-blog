@@ -24,7 +24,7 @@ Here are some of the useful tricks I learned about Git stash last week.
 3.  Git stash apply
 4.  Git stash pop
 5.  Git stash show
-6.  Git stash branch <name>
+6.  Git stash branch (name)
 7.  Git stash clear
 8.  Git stash drop
 
