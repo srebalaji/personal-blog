@@ -120,14 +120,14 @@ Likewise with other commands, you can also specify the stash id to get the diff 
 git stash show stash@{1}
 ```
 
-#### **Git stash branch <name>**
+#### **Git stash branch (name)**
 
 This command creates a new branch with the latest stash, and then deletes the latest stash ( like stash pop).
 
 If you need a particular stash you can specify the stash id.
 
 ```
-git stash branch <name> stash@{1}
+git stash branch (name) stash@{1}
 ```
 
 This will be useful when you run into conflicts after you’ve applied the stash to the latest version of your branch.
