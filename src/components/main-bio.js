@@ -98,6 +98,7 @@ function Bio() {
                   aria-label={`${s} profile`}
                   className="u-no-box-shadow"
                   href={`${socialURLs[s]}/${social[s]}`}
+                  target="_blank"
                 >
                   {socialIcons[s]}
                 </a>
