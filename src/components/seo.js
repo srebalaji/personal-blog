@@ -65,6 +65,14 @@ function SEO({ description, lang, meta, keywords, title, canonicalLink }) {
           name: `twitter:description`,
           content: metaDescription,
         },
+        {
+          itemprop: `name`,
+          content: title || site.siteMetadata.title,
+        },
+        {
+          itemprop: `description`,
+          content: metaDescription,
+        },
       ]
         .concat(
           keywords && keywords.length > 0
