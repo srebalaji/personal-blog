@@ -4,7 +4,7 @@ const configuration = {
   // the name of your website
   title: 'Srebalaji Thirumalai',
   // the description of the website (eg. what shows on Google)
-  description: "Srebalaji Thirumalai's blog. Srebalaji. Srebalaji Thirumalai. Made in India, Programmer, Indie Hacker, Love Rails and JavaScript.",
+  description: "Srebalaji Thirumalai's blog. Srebalaji Thirumalai. Made in India, Programmer, Indie Hacker, Love Rails and JavaScript.",
   // a short bio shown at the bottom of your blog posts
   // It should complete the sentence: Written by Srebalaji Thirumalai ...
   shortBio: '',
