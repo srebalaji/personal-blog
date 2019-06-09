@@ -4,22 +4,22 @@ const configuration = {
   // the name of your website
   title: 'Srebalaji Thirumalai',
   // the description of the website (eg. what shows on Google)
-  description: "Srebalaji Thirumalai's blog",
+  description: "Srebalaji Thirumalai's blog. Made in India, Programmer, Indie Hacker, Love Rails and JavaScript.",
   // a short bio shown at the bottom of your blog posts
   // It should complete the sentence: Written by Srebalaji Thirumalai ...
   shortBio: '',
   // a longer bio showing on the landing page of the blog
-  bio: `Made in India, Programmer, Indie Hacker, Love Rails and React.`,
+  bio: `Made in India, Programmer, Indie Hacker, Love Rails and JavaScript.`,
   author: 'Srebalaji Thirumalai',
   githubUrl: 'https://github.com/srebalaji/personal-blog',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'https://srebalaji.rocks',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: 'srebalaji',
     medium: '@srebalaji',
     facebook: '',
-    github: '',
+    github: 'srebalaji',
     linkedin: '',
     instagram: '',
   },
